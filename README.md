@@ -7,7 +7,7 @@
 </p>
 
 <h5 align="center">
-  I am a student at Epitech Barcelona, and also pretty into understanding how things works!
+  I am a student at Epitech Barcelona, and also really into understanding how things work!
 </h5>
 
 <h2 align="center">
