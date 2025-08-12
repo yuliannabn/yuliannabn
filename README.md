@@ -1,5 +1,5 @@
 <h3 align="center"> hi, I'm Yuli (aka pui)</h3>
-<p align="center"> I'm currently studying at Epitech Madrid and working at <a href="https://migalabs.io">MigaLabs</a> as a Fullstack Developer. </p>
+<p align="center"> I'm currently studying at Epitech Madrid. </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
